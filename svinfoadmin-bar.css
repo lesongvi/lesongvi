@@ -1,0 +1,266 @@
+html, html.wp-toolbar, * html body {
+	padding-top: 45px !important;
+}
+
+@media screen and (min-width:782px) {
+
+#wpadminbar {
+	min-height: 45px;
+	background: #222;
+	padding: 0 5px;
+}
+
+#wpadminbar .ab-top-secondary {
+	background: #222;
+}
+
+#wpadminbar .quicklinks a.ab-item {
+	line-height: 40px;
+}
+
+#wpadminbar > div.quicklinks > ul > li a {
+        white-space: nowrap;
+	height: 45px;
+}
+
+/* My Commons first-level hover color */
+#wpadminbar .quicklinks .menupop .ab-sub-secondary > li:hover,
+#wpadminbar .quicklinks .menupop .ab-sub-secondary > li.hover,
+#wpadminbar .quicklinks .menupop .ab-sub-secondary > li:focus {
+	background: #3c3c3c;
+}
+
+#wpadminbar .ab-label {
+	line-height: 40px;
+}
+
+#wpadminbar .ab-icon {
+	margin-top: 12px;
+}
+
+/* Logo/main site nav */
+#wpadminbar .ab-top-menu > li#wp-admin-bar-cuny-academic-commons > a {
+	white-space: nowrap;
+	display: block;
+	height: 45px;
+	overflow: hidden;
+	padding-right: 6px;
+}
+
+#wpadminbar .ab-top-menu > li#wp-admin-bar-cuny-academic-commons {
+	padding-right: 20px;
+	margin-right: 5px;
+}
+
+#wpadminbar .ab-top-menu > li#wp-admin-bar-cuny-academic-commons:hover {
+	background: #fff;
+}
+
+#wpadminbar .ab-top-menu > li#wp-admin-bar-cuny-academic-commons:after,
+#wpadminbar #wp-admin-bar-my-account:after {
+	font-size: .8em;
+	content: "\25BC";
+	position: absolute;
+	right: 8px;
+	top: 4px;
+}
+
+#wpadminbar li#wp-admin-bar-cuny-academic-commons div {
+	text-indent: 0;
+}
+
+#wpadminbar #wp-admin-bar-updates .ab-icon:before {
+	top: -5px;
+}
+
+#wpadminbar #wp-admin-bar-comments .ab-icon:before,
+#wpadminbar #wp-admin-bar-new-content .ab-icon:before {
+	top: -4px;
+}
+
+#wpadminbar #wp-admin-bar-edit > .ab-item:before {
+	top: 6px;
+}
+
+#wpadminbar .quicklinks .menupop ul li a, #wpadminbar .quicklinks .menupop ul li a strong, #wpadminbar .quicklinks .menupop.hover ul li a, #wpadminbar.nojs .quicklinks .menupop:hover ul li a {
+	color: inherit;
+}
+
+/* Notifications */
+#wpadminbar .quicklinks li#wp-admin-bar-bp-notifications > a > span {
+	line-height: 40px;
+}
+
+/* My Commons */
+#wp-admin-bar-my-account img.avatar {
+	width: 24px;
+	height: 24px;
+	padding-right: 14px;
+	margin-top: 11px;
+}
+
+#wpadminbar #wp-admin-bar-my-account:after {
+	right: 10px;
+}
+
+#wpadminbar ul li#wp-admin-bar-bp-login, #wpadminbar ul li#wp-admin-bar-bp-register {
+	float: right;
+	text-align: right;
+}
+
+#wpadminbar .ab-top-menu > li.menupop:hover > .ab-item,
+#wpadminbar .ab-top-menu > li.menupop.hover > .ab-item {
+	background: #000;
+	color: #fff;
+}
+
+#wpadminbar .quicklinks > ul > li {
+	border-right: none;
+}
+
+#wpadminbar .quicklinks > ul > li > a,
+#wpadminbar .quicklinks > ul > li > .ab-empty-item {
+	border-right: none;
+}
+
+/* Level 2 */
+
+#wpadminbar .ab-sub-secondary .menupop div.ab-sub-wrapper div.ab-sub-wrapper {
+	position: absolute;
+}
+
+/* My Commons second-level hover */
+#wpadminbar .menupop li:hover,
+#wpadminbar .menupop li.hover {
+	background: #3c3c3c;
+}
+
+/* WP 3.8 Dashicons overrides */
+#wpadminbar #wp-admin-bar-site-name > .ab-item:before,
+#wpadminbar #wp-admin-bar-my-account > .ab-item:before {
+	content: none;
+}
+
+#wpadminbar .quicklinks .menupop ul.ab-sub-secondary,
+#wpadminbar .quicklinks .menupop ul.ab-sub-secondary .ab-submenu {
+	background: none;
+}
+
+#wpadminbar .menupop .ab-sub-wrapper {
+	background: #222;
+	border: 0;
+	box-shadow: none;
+}
+
+#wpadminbar .quicklinks .menupop ul li a,
+#wpadminbar .quicklinks .menupop.hover ul li a {
+	color: #fff;
+}
+
+#wp-admin-bar-my-groups-default {
+	width: auto;
+}
+
+#wpadminbar .blavatar {
+	display: none; /* Remove the WP icons */
+}
+
+#wp-admin-bar-my-account-blogs .li_container ul {
+	width: 260px;
+}
+
+#wp-admin-bar-my-account-blogs .li_container ul li {
+	width: 250px;
+}
+
+#wpadminbar .quicklinks .menupop ul.ab-sub-secondary {
+	background: none;
+}
+
+#wpadminbar .ab-sub-secondary .menupop.hover div.ab-sub-wrapper,
+#wpadminbar .ab-sub-secondary .menupop.hover div.ab-sub-wrapper * {
+	z-index: 999999 !important;
+}
+
+#wpadminbar .ab-sub-secondary .menupop div.ab-sub-wrapper * {
+	position: relative;
+}
+
+
+#wpadminbar .ab-sub-wrapper, #wpadminbar ul, #wpadminbar ul li {
+	z-index: auto;
+}
+
+ul#wp-admin-bar-my-sites-list {
+	width: 100%;
+}
+
+#footer #wpadminbar a:link { color: #ccc; }
+#wpadminbar .quicklinks .ab-top-secondary > li { border: none; }
+#wpadminbar .quicklinks .ab-top-secondary > li > .ab-empty-item { border: none; }
+
+#wpadminbar .quicklinks .ab-top-secondary > li > a {
+	border-left: 1px solid #555;
+}
+
+#wp-admin-bar-my-account-blogs .ab-sub-wrapper,
+#wp-admin-bar-my-account-groups .ab-sub-wrapper {
+	max-height: 500px;
+	overflow-y: scroll;
+}
+} /* end media query */
+
+
+/* adminbar login form
+----------------------------------------------------------------------------------------
+- adding some default BP form styles so the form will look accurate across all WP blogs */
+li.bp-login {position:relative;}
+
+#wpadminbar ul li#wp-admin-bar-bp-login {
+	width: 70px;
+}
+
+form#sidebar-login-form {position:absolute; background:url(bg_trans.png) repeat 0 0 !important; width:200px; padding:10px; border-radius:0 8px 8px 8px; -moz-border-radius:0 8px 8px 8px; -webkit-border-radius:0 8px 8px 8px; box-shadow:0px 3px 3px #999; display:none; margin-left: -155px; text-align: left;}
+	li.bp-login:hover form {display:block; cursor:default;}
+
+form#sidebar-login-form label, form#sidebar-login-form span.label {display:block; color:#fff; margin:5px 0;}
+
+#wpadminbar form#sidebar-login-form textarea, #wpadminbar form#sidebar-login-form input[type="text"],
+#wpadminbar form#sidebar-login-form select, #wpadminbar form#sidebar-login-form input[type="password"],
+#wpadminbar form#sidebar-login-form input[type="submit"]
+	{border:1px inset #ccc; border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; color: #888; text-shadow: none;}
+
+#sidebar-login-form input[type="text"], #sidebar-login-form input[type="password"] {padding:4px; width:95%;}
+
+form#sidebar-login-form input[type="submit"] {padding:3px 10px; text-decoration:none; vertical-align:bottom; border:1px solid #ddd; cursor:pointer; text-shadow: none;}
+
+input#sidebar-rememberme {margin-left:0;}
+
+form#sidebar-login-form p.forgetmenot {float:none;}
+
+form#sidebar-login-form a.lost-pw {padding-right:2px !important; float:right; font-size:.9em !important; background:none !important;}
+	#wp-admin-bar li a.lost-pw:hover {text-decoration:underline !important; background:none !important;}
+
+form#sidebar-login-form #sidebar-wp-submit {background:#fff;}
+
+.login-click {background:#000 !important;}
+
+/* Force the Login button to show in responsive mode. */
+@media screen and (max-width:782px) {
+	html {
+		padding-top: 0 !important;
+	}
+
+	#wp-toolbar > ul > li#wp-admin-bar-bp-login {
+		display: list-item;
+		padding-left: 10px;
+	}
+
+	#wp-toolbar > ul > li#wp-admin-bar-bp-login > a {
+		padding-left: 10px;
+	}
+
+	form#sidebar-login-form {
+		margin-left: 0;
+	}
+}

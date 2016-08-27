@@ -1,0 +1,83 @@
+/**
+ * BINH TIEN SHOP - Vi Ga
+ * @copyright Copyright 2016 Vi Ga
+ */
+
+
+/*list box contents*/
+
+.centerBoxContents,
+.specialsListBoxContents,
+.categoryListBoxContents,
+.additionalImages,
+.centerBoxContentsSpecials,
+.centerBoxContentsAlsoPurch,
+.centerBoxContentsFeatured,
+.centerBoxContentsNew {
+  margin:1em 0;
+}
+
+
+.leftBoxHeading,
+.centerBoxHeading {
+  margin:0;
+  background-color:#08a200;
+  /* mau background box trai */
+
+	padding:0.5em 0.2em;
+}
+
+
+.centeredContent,
+TH,
+#cartEmptyText,
+#cartBoxGVButton,
+#cartBoxEmpty,
+#cartBoxVoucherBalance,
+#navCatTabsWrapper,
+#navEZPageNextPrev,
+#bannerOne,
+#bannerTwo,
+#bannerThree,
+#bannerFour,
+#bannerFive,
+#bannerSix,
+#siteinfoLegal,
+#siteinfoCredits,
+#siteinfoStatus,
+#siteinfoIP,
+.center,
+.cartRemoveItemDisplay,
+.cartQuantityUpdate,
+.cartQuantity,
+.cartTotalsDisplay,
+#cartBoxGVBalance,
+.leftBoxHeading,
+.centerBoxHeading,
+.rightBoxHeading,
+.productListing-data,
+.accountQuantityDisplay,
+.ratingRow,
+LABEL#textAreaReviews,
+#productMainImage,
+#reviewsInfoDefaultProductImage,
+#productReviewsDefaultProductImage,
+#reviewWriteMainImage,
+.centerBoxContents,
+.specialsListBoxContents,
+.categoryListBoxContents,
+.additionalImages,
+.centerBoxContentsSpecials,
+.centerBoxContentsAlsoPurch,
+.centerBoxContentsFeatured,
+.centerBoxContentsNew,
+.gvBal,
+.attribImg {
+  text-align:center;
+}
+
+/*misc*/
+
+.back {
+  float:left;
+}

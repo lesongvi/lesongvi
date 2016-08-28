@@ -1,0 +1,36 @@
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+ 
+/* SIMPLE FOOOOTER by Vi Ga ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+ 
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+ #simpleFooter {
+  display:none;
+  width:100%;
+  /*background:#e1e3e5 url(https://cdnssl.mediafire.com/images/backgrounds/footer/footer_texture.png) 0 0;
+  */
+
+ height:70px;
+  line-height:70px;
+  margin-top:-70px;
+  color:#888;
+  box-shadow:inset 0 1px 3px 0 rgba(0,0,0,.2);
+  text-align:center;
+  font-size:12px;
+  background-color:#f2f2f2;
+}
+
+.signUpRegister #footer,
+.checkOut #footer,
+.changePlan #footer {
+  display:none;
+}
+
+.signUpRegister #simpleFooter,
+.checkOut #simpleFooter,
+.changePlan #simpleFooter {
+  display:block;
+}

@@ -1,0 +1,777 @@
+/* INVOICE TEMPLATES ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+ div.invoice_container {
+  display:none;
+  font-size:14px;
+  line-height:22px;
+  width:960px !important;
+  background-color:#fff;
+  background-repeat:no-repeat;
+  background-position:20px 20px;
+  color:#000 !important;
+  padding:53px 0 0;
+  height:100%;
+}
+
+div.invoice_heading {
+  font-size:20px;
+  font-weight:bold;
+  height:56px;
+  padding:2px;
+  background:#222 url(https://cdnssl.mediafire.com/images/mediapro/mf_logo_invoice.png) 16px 15px no-repeat;
+  display:none;
+}
+
+div.invoice_heading > span {
+  color:#a1c5e3;
+  float:right;
+  padding:18px 25px 0;
+}
+
+div.invoice_heading > span em {
+  color:#fff;
+  font-style:normal;
+}
+
+div.invoice_heading a span {
+  display:block;
+  padding:8px 0 0 40px;
+  margin:10px 0 0 35px;
+  background:url(https://cdnssl.mediafire.com/images/icons/printer.png) 0 center no-repeat;
+  text-shadow:-1px -1px 0 #004D80;
+}
+
+div.invoice_heading a:hover {
+  text-decoration:none;
+}
+
+div.invoice_subheading {
+  padding:10px 20px;
+  margin:20px 20px 40px;
+  background:#eee;
+}
+
+div.invoice_subheading a {
+  float:right;
+  margin-left:20px;
+  padding-left:22px;
+  background-position:0 center;
+  background-repeat:no-repeat;
+}
+
+table.invoice_table {
+  border:none;
+  font-size:14px;
+  margin-bottom:60px;
+  background:transparent;
+  box-shadow:none;
+  margin-left:20px;
+}
+
+table.invoice_table tbody tr {
+  background:#fff;
+}
+
+table.invoice_table tbody th {
+  font-size:14px;
+}
+
+table.invoice_table th span {
+  display:block;
+  padding-bottom:10px;
+}
+
+table.invoice_table td {
+  border-width:1px;
+  padding:0;
+  height:36px;
+}
+
+table.invoice_table td.borderless {
+  border-width:1px 0;
+}
+
+table.invoice_table td span {}
+
+table.invoice_table .invoice_items td {
+  background:#fff;
+  color:#000;
+  border-color:#aaa;
+}
+
+table.invoice_table .subtotal_items td {
+  background:#fff;
+  color:#000;
+  border-color:#aaa;
+  font-weight:bold;
+}
+
+table.invoice_table .invoice_table_header {
+  color:#333;
+  font-weight:bold;
+}
+
+table.invoice_table .cols_center td {
+  text-align:center;
+}
+
+div.invoice_extrainfo {
+  width:535px;
+  float:left;
+  padding-left:20px;
+}
+
+div.invoice_acctinfo {
+  width:316px;
+  float:right;
+  padding:0 0 6px 0;
+  border:0 solid #ececec;
+}
+
+div.invoice_extrainfo h3 {
+  font-size:18px;
+  color:#000;
+  margin-bottom:18px;
+}
+
+div.invoice_extrainfo p,
+div.invoice_acctinfo p {
+  margin-bottom:22px;
+}
+
+div.invoice_extrainfo span,
+div.invoice_acctinfo span {
+  display:block;
+}
+
+div.invoice_acctinfo h4 {
+  font-size:18px;
+  margin:0 0 18px;
+  background:#fff;
+  color:#000;
+  border-bottom:0 solid #aaa;
+}
+
+div.invoice_acctinfo p {
+  margin-left:0;
+}
+
+div.invoice_container.printinvoice div.invoice_heading > a,
+div.invoice_container.printinvoice div.invoice_subheading > a {
+  display:none;
+}
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ NEW SIGN UP DESIGN - CIRCLES ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+ .circleSignupContainer {
+  /*display:none;
+  */
+
+ position:relative;
+}
+
+body.signupCircles {
+  background:none;
+}
+
+body.signup.signupCircles #main:after {
+  display:none;
+}
+
+.signupCircles .circleSignupContainer {
+  display:block;
+}
+
+.circleSignupContainer #planSelectionUpdate {
+  color:#4D5256;
+}
+
+.circleSignupContainer {
+  overflow:hidden;
+  display:block;
+}
+
+#circleSpaceSlider {
+  width:1920px;
+  /*height:380px;
+  */
+
+ font-size:14px;
+  margin-bottom:70px;
+  margin-top:-10px;
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/cricleShadows.png) 85px 259px no-repeat;
+  position:relative;
+}
+
+.circleSpaceChoice {
+  background-color:#ebebeb;
+  border-radius:130px 130px 130px 130px;
+  float:left;
+  font-size:48px;
+  font-weight:bold;
+  height:260px;
+  text-align:center;
+  width:260px;
+  position:relative;
+  cursor:pointer;
+  -webkit-box-shadow:inset 0 0 40px 40px rgba(0,0,0,.07),inset 0 0 0 0 rgba(71,167,231,0);
+  box-shadow:inset 0 0 40px 40px rgba(0,0,0,.07),inset 0 0 0 0 rgba(71,167,231,0);
+  -webkit-transition:all 0.3s ease-out;
+  -moz-transition:all 0.3s ease-out;
+  -ms-transition:all 0.3s ease-out;
+  -o-transition:all 0.3s ease-out;
+  transition:all 0.3s ease-out;
+}
+
+.circleSpaceChoice:hover {
+  background-color:#acdaf8;
+  -webkit-box-shadow:inset 0 0 40px 40px rgba(71,167,231,.2),inset 0 0 0 0 rgba(71,167,231,0);
+  box-shadow:inset 0 0 40px 40px rgba(71,167,231,.2),inset 0 0 0 0 rgba(71,167,231,0);
+}
+
+.circleSpaceChoice.spaceSelected {
+  background-color:#6fc0f5;
+  -webkit-box-shadow:inset 0 0 40px 40px rgba(71,167,231,.2),inset 0 0 0 10px rgba(71,167,231,1);
+  box-shadow:inset 0 0 40px 40px rgba(71,167,231,.2),inset 0 0 0 10px rgba(71,167,231,1);
+  color:#fff;
+}
+
+.circleSpaceChoice span {
+  display:block;
+  left:50%;
+  margin-left:-74px;
+  margin-top:-38px;
+  position:absolute;
+  top:50%;
+  width:160px;
+}
+
+.circleSpaceChoice input[type="radio"] {
+  left:50%;
+  margin-left:-6px;
+  position:absolute;
+  bottom:20px;
+}
+
+#circlePlanTitle {
+  font-size:32px;
+  text-align:center;
+  margin:20px 0;
+}
+
+.circleSignupContainer #spaceFooter {
+  border:1px solid #DEE6EC;
+  border-radius:3px;
+}
+
+.circleSignupContainer #planSelectionUpdate label {
+  font-weight:normal;
+  margin-left:20px;
+  cursor:pointer;
+}
+
+.circleBusiness {
+  height:270px;
+  padding:20px 50px 0 420px;
+  width:490px;
+  float:left;
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/businessPlanCircle.png) 80px center no-repeat;
+}
+
+.circleBusiness ul {
+  margin-top:15px;
+}
+
+.circle100 {
+  width:200px;
+  height:200px;
+  border-radius:100px;
+  margin:72px 35px 0 72px;
+}
+
+.circle100:after {
+  content:"";
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/ribbon.png) left center no-repeat;
+  height:110px;
+  left:-1px;
+  position:absolute;
+  top:-1px;
+  width:133px;
+}
+
+.circle100stack {
+  content:"";
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/fileStacks.png) -4px center no-repeat;
+  height:63px;
+  left:32px;
+  position:absolute;
+  top:182px;
+  width:133px;
+}
+
+.circle200 {
+  width:230px;
+  height:230px;
+  border-radius:115px;
+  margin:42px 30px 0 30px;
+}
+
+.circle200stack {
+  content:"";
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/fileStacks.png) -285px center no-repeat;
+  height:63px;
+  left:48px;
+  position:absolute;
+  top:212px;
+  width:133px;
+}
+
+.circle500 {
+  margin:12px 70px 0 32px;
+}
+
+.circle500stack {
+  content:"";
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/fileStacks.png) -593px center no-repeat;
+  height:63px;
+  left:65px;
+  position:absolute;
+  top:242px;
+  width:133px;
+}
+
+#freePlanPiggy {
+  background:#fbe2e4 url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/piggy.png) 10px center no-repeat;
+  border:1px solid #E1C8CA;
+  border-radius:3px 3px 3px 3px;
+  float:left;
+  height:44px;
+  margin-top:20px;
+  padding:10px 10px 10px 70px;
+  cursor:pointer;
+}
+
+#freePlanPiggy:hover {
+  background:#FAEBED url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/piggy.png) 10px center no-repeat;
+}
+
+.filesStacks {
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/fileStacks.png) left center no-repeat;
+  height:63px;
+  left:101px;
+  position:absolute;
+  top:250px;
+  width:730px;
+}
+
+#circleMoreSpace {
+  float:right;
+  cursor:pointer;
+  margin-bottom:10px;
+}
+
+#circleLessSpace {
+  float:left;
+  cursor:pointer;
+  margin-bottom:10px;
+}
+
+.circleInfo {
+  color:#666666;
+  font-size:12px;
+  font-weight:normal;
+  line-height:16px;
+  position:absolute;
+  top:310px;
+  pointer-events:none;
+}
+
+.circleCurrentPlan {
+  background:none repeat scroll 0 0 #FFFFFF;
+  -webkit-box-shadow:inset 0 0 40px 40px rgba(0,0,0,.05),inset 0 0 0 0 rgba(71,167,231,0);
+  box-shadow:inset 0 0 40px 40px rgba(0,0,0,.05),inset 0 0 0 0 rgba(71,167,231,0);
+  color:#D0D0D0;
+}
+
+.circleCurrentPlan:hover {
+  background:none repeat scroll 0 0 #FFFFFF;
+  -webkit-box-shadow:inset 0 0 40px 40px rgba(0,0,0,.05),inset 0 0 0 0 rgba(71,167,231,0);
+  box-shadow:inset 0 0 40px 40px rgba(0,0,0,.05),inset 0 0 0 0 rgba(71,167,231,0);
+  color:#D0D0D0;
+}
+
+.circleCurrentPlan:before {
+  color:#D0D0D0;
+  content:"Current Plan";
+  font-size:14px;
+  left:50%;
+  margin:30px 0 0 -51px;
+  position:absolute;
+  text-transform:uppercase;
+  top:50%;
+}
+
+.circleCurrentPlan .circle100stack,
+.circleCurrentPlan .circle200stack,
+.circleCurrentPlan .circle500stack {
+  opacity:.4;
+}
+
+.circleCurrentPlan input[type="radio"] {
+  display:none;
+}
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ NEW SIGN UP DESIGN - BACKPACKS N STUFF ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+ #upgradeLogin,
+#upgradeDiscountBanner {
+  display:none;
+  background-color:#eeeff1;
+  background-color:rgba(238,238,238,.6);
+  padding:0.5em;
+  text-align:center;
+  font-size:14px;
+}
+
+#upgradeDiscountBanner span {
+  font-weight:bold;
+  text-transform:uppercase;
+  color:#ff113e;
+}
+
+#upgradeDiscountBanner em {
+  font-weight:bold;
+  font-style:normal;
+}
+
+.discountActive #upgradeLogin {
+  display:none !important;
+}
+
+.discountActive #upgradeDiscountBanner {
+  display:block;
+}
+
+.siteMinWidth #upgradeLogin {
+  top:70px;
+  position:relative;
+}
+
+#upgradeLogin a {
+  font-weight:bold;
+}
+
+.signupLayoutA,
+.signupLayoutB {
+  font-size:0;
+  text-align:center;
+  font-family:"Open Sans",sans-serif;
+  color:#222;
+  margin-bottom:-40px;
+  width:960px;
+  margin:0 auto;
+}
+
+#chooseYourPlan {
+  padding-top:40px;
+  padding-bottom:0;
+  width:960px;
+  margin:0 auto;
+}
+
+.planChoice {
+  /*height:380px;
+  */
+
+ width:300px;
+  margin:0 10px;
+  padding-bottom:10px;
+  display:inline-block;
+  vertical-align:text-top;
+  background:#fff;
+  position:relative;
+  cursor:pointer;
+  background-color:#f3f3f3;
+  background-image:-webkit-linear-gradient(top,rgba(255,255,255,.5),rgba(255,255,255,0));
+  background-image:-moz-linear-gradient(top,rgba(255,255,255,.5),rgba(255,255,255,0));
+  background-image:-ms-linear-gradient(top,rgba(255,255,255,.5),rgba(255,255,255,0));
+  background-image:-o-linear-gradient(top,rgba(255,255,255,.5),rgba(255,255,255,0));
+  background-image:linear-gradient(top,rgba(255,255,255,.5),rgba(255,255,255,0));
+  border-radius:5px 5px 0 0;
+  padding-bottom:25px;
+  -webkit-box-shadow:0 0 0 1px rgba(0,0,0,.08);
+  -moz-box-shadow:0 0 0 1px rgba(0,0,0,.08);
+  box-shadow:0 0 0 1px rgba(0,0,0,.08);
+  -webkit-transition:background-color .1s linear,box-shadow .1s linear;
+  -moz-transition:background-color .1s linear,box-shadow .1s linear;
+  -ms-transition:background-color .1s linear,box-shadow .1s linear;
+  -o-transition:background-color .1s linear,box-shadow .1s linear;
+  transition:background-color .1s linear,box-shadow .1s linear;
+}
+
+.signupLayoutB .planChoice {
+  border-radius:5px;
+}
+
+.planChoice:hover {
+  background-color:#fff;
+  -webkit-box-shadow:0 0 0 1px rgba(0,0,0,.15);
+  -moz-box-shadow:0 0 0 1px rgba(0,0,0,.15);
+  box-shadow:0 0 0 1px rgba(0,0,0,.15);
+}
+
+.planChoice.currentOrLowerPlan {
+  opacity:.6;
+  color:#777;
+  cursor:default;
+}
+
+.planChoice.currentOrLowerPlan:hover {
+  background-color:#f3f3f3;
+  -webkit-box-shadow:0 0 0 1px rgba(0,0,0,.08),0 2px 10px 0 rgba(0,0,0,0);
+  -moz-box-shadow:0 0 0 1px rgba(0,0,0,.08),0 2px 10px 0 rgba(0,0,0,0);
+  box-shadow:0 0 0 1px rgba(0,0,0,.08),0 2px 10px 0 rgba(0,0,0,0);
+}
+
+.planChoice.currentOrLowerPlan .gbtnTertiary {
+  box-shadow:none;
+  background:#777;
+  cursor:default;
+}
+
+/* PLAN FEATURES BELOW */
+
+ #planFeatures {
+  width:960px;
+  margin:0 auto;
+}
+
+#planFeatures > div {
+  border-radius:0 0 5px 5px;
+  display:inline-block;
+  vertical-align:top;
+  font-size:14px;
+  margin:1px 10px;
+  width:250px;
+  -webkit-box-shadow:0 0 0 1px rgba(0,0,0,.08);
+  -moz-box-shadow:0 0 0 1px rgba(0,0,0,.08);
+  box-shadow:0 0 0 1px rgba(0,0,0,.08);
+  padding:10px 25px 0 25px;
+  text-align:left;
+}
+
+.planFreeFeatures {
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/ad_diagram-v2.png) center 25px no-repeat;
+}
+
+#planFeatures ul li {
+  border-bottom:1px solid #e8e8e9;
+  background-image:url(https://cdnssl.mediafire.com/images/icons/tick.png);
+  background-repeat:no-repeat;
+  background-position:left center;
+  padding:10px 0;
+  text-indent:25px;
+  white-space:nowrap;
+}
+
+.planTitle {
+  font-size:30px;
+  font-weight:400;
+  height:60px;
+  line-height:60px;
+}
+
+.planIllustration {
+  height:232px;
+  margin:10px 0 25px;
+}
+
+.signupLayoutB .planIllustration {
+  margin-top:20px;
+}
+
+#planFree .planIllustration {
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/free_items_v2.png) center 7px no-repeat;
+}
+
+#planFree.currentOrLowerPlan .planIllustration {
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/free_items_gray.png) center 7px no-repeat;
+}
+
+#planPro .planIllustration {
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/rucksack_v2.png) center -16px no-repeat;
+}
+
+#planPro.currentOrLowerPlan .planIllustration {
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/rucksack_gray.png) center -16px no-repeat;
+}
+
+#planBusiness .planIllustration {
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/briefcase_v2.png) center -16px no-repeat;
+}
+
+#planBusiness.currentOrLowerPlan .planIllustration {
+  background:url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/briefcase_gray.png) center -16px no-repeat;
+}
+
+.planDesc {
+  font-size:13px;
+  line-height:1;
+  margin:0 25px 30px;
+}
+
+.planDesc em {
+  font-style:normal;
+  font-weight:bold;
+}
+
+.planDescPrice {
+  font-weight:600;
+  font-size:24px;
+  display:block;
+  margin-top:10px;
+  color:#444;
+}
+
+.planSubText,
+.planSubTextDiscount {
+  padding:10px 20px 0;
+  font-size:11px;
+  display:block;
+  color:hsl(0,0%,30%);
+  line-height:14px;
+}
+
+.planSubTextDiscount {
+  display:none;
+}
+
+.planDesc > span span {
+  font-size:16px;
+  font-weight:400;
+  vertical-align:top;
+}
+
+.signupLayoutB .planDescPrice {
+  line-height:22px;
+  font-size:32px;
+}
+
+.signupLayoutB .planDescPrice {
+  font-weight:400;
+  font-size:14px;
+}
+
+.planRibbonWrap {
+  display:none;
+  width:85px;
+  height:85px;
+  overflow:hidden;
+  position:absolute;
+  top:-4px;
+  right:-4px;
+}
+
+.planRibbon {
+  font:700 12px/12px 'Open Sans',sans-serif;
+  color:#FFF;
+  text-align:center;
+  -webkit-transform:rotate(45deg);
+  -moz-transform:rotate(45deg);
+  -ms-transform:rotate(45deg);
+  -o-transform:rotate(45deg);
+  position:absolute;
+  padding:4px 0;
+  left:-10px;
+  top:24px;
+  width:120px;
+  background-color:#f24b6a;
+  background-image:-webkit-gradient(linear,left top,left bottom,from(#f24b6a),to(#df3b5a));
+  background-image:-webkit-linear-gradient(top,#f24b6a,#df3b5a);
+  background-image:-moz-linear-gradient(top,#f24b6a,#df3b5a);
+  background-image:-ms-linear-gradient(top,#f24b6a,#df3b5a);
+  background-image:-o-linear-gradient(top,#f24b6a,#df3b5a);
+  -webkit-box-shadow:0 1px 2px 0 rgba(0,0,0,0.3);
+  -moz-box-shadow:0 1px 2px 0 rgba(0,0,0,0.3);
+  box-shadow:0 1px 2px 0 rgba(0,0,0,0.3);
+  text-transform:uppercase;
+}
+
+.windows.chrome .planRibbon {
+  -webkit-transform:translate3d(0,0,0) rotate(45deg);
+  /* forces hardware antialiasing,our font looks bad on Windows after rotation */;
+}
+
+.planRibbonWrap.mostPopular .planRibbon {
+  text-transform:none;
+}
+
+.planRibbon:before,
+.planRibbon:after {
+  content:"";
+  border-top:2px solid #7d2d3c;
+  border-left:2px solid transparent;
+  border-right:2px solid transparent;
+  position:absolute;
+  bottom:-2px;
+}
+
+.planRibbon:before {
+  left:0;
+}
+
+.planRibbon:after {
+  right:0;
+}
+
+.planChoice .gbtnTertiary {
+  float:none;
+  margin:0 25px;
+  height:50px;
+  line-height:50px;
+  font-size:16px;
+  padding:0;
+  text-align:center;
+}
+
+.planChoice .gbtnTertiary:first-letter {
+  padding:0;
+}
+
+#planAdSupported {
+  cursor:pointer;
+  color:#d6182f;
+}
+
+#planAdSupported .tooltip {
+  display:block;
+  color:#000;
+  left:-11px;
+  background:#fff url(https://cdnssl.mediafire.com/images/backgrounds/signup/signupC/ad_diagram.png) center no-repeat;
+  margin-bottom:-14px;
+  -webkit-transition:visibility 0s linear .2s,opacity .2s linear,height 0s linear .2s,width 0s linear .2s;
+  -moz-transition:visibility 0s linear .2s,opacity .2s linear,height 0s linear .2s,width 0s linear .2s;
+  -ms-transition:visibility 0s linear .2s,opacity .2s linear,height 0s linear .2s,width 0s linear .2s;
+  -o-transition:visibility 0s linear .2s,opacity .2s linear,height 0s linear .2s,width 0s linear .2s;
+  transition:visibility 0s linear .2s,opacity .2s linear,height 0s linear .2s,width 0s linear .2s;
+  visibility:hidden;
+  opacity:0;
+  height:0;
+  width:0;
+}
+
+#planAdSupported .tooltip.point-down:before {
+  left:80px;
+}
+
+#planAdSupported:hover .tooltip {
+  -webkit-transition-delay:0s;
+  -moz-transition-delay:0s;
+  -ms-transition-delay:0s;
+  -o-transition-delay:0s;
+  transition-delay:0s;
+  visibility:visible;
+  opacity:1;
+  height:167px;
+  width:253px;
+}

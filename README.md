@@ -1,1 +1,1 @@
-# lesongvi
+[![lesongvi's github stats](https://github-readme-stats.vercel.app/api?username=lesongvi&show_icons=false&hide_title=true&count_private=true&hide=stars,issues&hide_rank=true&text_color=ff8c00&bg_color=ff8c00,f0b90b)](https://github.com/lesongvi?tab=repositories)

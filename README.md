@@ -8,4 +8,4 @@
 :two: [Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language) 🇻🇳 is an official language in my country.  
 :three: It's the language you are reading here, [English](https://en.wikipedia.org/wiki/English_language)!
 
-[![lesongvi's github stats](https://github-readme-stats.lesongvi.vercel.app//api?username=lesongvi&show_icons=true&hide_title=true&count_private=true&include_all_commits=false&hide=stars,issues&text_color=fba342&icon_color=fba342&title_color=fba342&bg_color=052339&cache_seconds=2048&hide_border=false)](https://github.com/lesongvi?tab=repositories)
+[![lesongvi's github stats](https://github-readme-stats.lesongvi.vercel.app//api?username=lesongvi&show_icons=true&hide_title=true&count_private=true&include_all_commits=false&hide=stars&text_color=fba342&icon_color=fba342&title_color=fba342&bg_color=052339&cache_seconds=2048&hide_border=false)](https://github.com/lesongvi?tab=repositories)

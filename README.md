@@ -3,7 +3,7 @@
 [![Lê Song Vĩ's CV](https://user-images.githubusercontent.com/20860845/129331721-e638d143-18fe-4dca-8a99-94c24f90a892.png)](https://cv.error.vn)
 
 ## Kơkuh 👋🏼 Xin chào 👋 Hello 👋🏻
-### I just greeted you in 3 different languages
+### I just greeted you in 3 different languages 👀
 :one: The first is the language of the [Jrai people](https://en.wikipedia.org/wiki/Jarai_people), they are indigenous people in Gia Lai where I was born.  
 :two: [Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language) 🇻🇳 is the official language in my country.  
 :three: It's the language you are reading here, [English](https://en.wikipedia.org/wiki/English_language)!

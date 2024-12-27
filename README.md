@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=lesongvi&color=orange&label=LESONGVI'S+PROFILE+VIEWS&style=for-the-badge" alt="lesongvi">
-  
-[![Lê Song Vĩ's CV](https://user-images.githubusercontent.com/20860845/129331721-e638d143-18fe-4dca-8a99-94c24f90a892.png)](https://blog.vi2k.com)
+
+[![Lê Song Vĩ's CV](https://user-images.githubusercontent.com/20860845/129331721-e638d143-18fe-4dca-8a99-94c24f90a892.png)](https://blog.lsv.vn)
 
 ## Kơkuh 👋🏼 Xin chào 👋 Hello 👋🏻
 ### I have just greeted you in 3 different languages 👀
@@ -8,13 +8,7 @@
 :two: [Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language) 🇻🇳 is the official language in my country.  
 :three: It's the language you are reading here, [English](https://en.wikipedia.org/wiki/English_language)!
 
-[![lesongvi's github stats](https://github-readme-stats.lesongvi.vercel.app//api?username=lesongvi&show_icons=true&hide_title=true&count_private=true&include_all_commits=false&hide=stars&text_color=fba342&icon_color=fba342&title_color=fba342&bg_color=052339&cache_seconds=2048&hide_border=false)](https://github.com/lesongvi?tab=repositories)
-
-### How much time have I spent programming since 2022?
-[![wakatime](https://wakatime.com/badge/user/43ed987f-f668-4a15-8549-3945aa5c1fee.svg)](https://wakatime.com/@43ed987f-f668-4a15-8549-3945aa5c1fee)
-
-<details>
-  <summary><b>My languages & tools</b></summary>
+### 🛠️ My Skills & Tools
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
@@ -245,4 +239,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="webpack" width="40" height="40" />
   </a>
 </p>
-</details>
+
+### 📊 GitHub Stats
+[![lesongvi's github stats](https://github-readme-stats.lesongvi.vercel.app//api?username=lesongvi&show_icons=true&hide_title=true&count_private=true&include_all_commits=false&hide=stars&text_color=fba342&icon_color=fba342&title_color=fba342&bg_color=052339&cache_seconds=2048&hide_border=false)](https://github.com/lesongvi?tab=repositories)
+
+### ⏳ Programming Time Since 2022
+[![wakatime](https://wakatime.com/badge/user/43ed987f-f668-4a15-8549-3945aa5c1fee.svg)](https://wakatime.com/@43ed987f-f668-4a15-8549-3945aa5c1fee)
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/lesongvi)
+- [Facebook](https://www.facebook.com/lesongvi)
+- [Instagram](https://www.instagram.com/lesongvi)
+- [Personal Website](https://lsv.vn)
+- [Blog](https://blog.lsv.vn)
+

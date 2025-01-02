@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lesongvi&color=orange&label=LESONGVI'S+PROFILE+VIEWS&style=for-the-badge" alt="lesongvi" /> </p>
 
 ## Kơkuh 👋🏼 Xin chào 👋 Hello 👋🏻
-### I have just greeted you in 3 different languages 👀
+### 🚀 I have just greeted you in 3 different languages 👀
 :one: The first is the language of the [Jrai people](https://en.wikipedia.org/wiki/Jarai_people). They are indigenous people in Gia Lai, where I was born.  
 :two: [Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language) 🇻🇳 is the official language in my country.  
 :three: It's the language you are reading here, [English](https://en.wikipedia.org/wiki/English_language)!
@@ -34,8 +34,7 @@
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lesongvi)
-- [Facebook](https://www.facebook.com/lesongvi)
-- [Instagram](https://www.instagram.com/lesongvi)
 - [Personal Website](https://www.lsv.vn)
 - [Blog](https://blog.lsv.vn)
 
+> Creativity, open-mind, self-initiative, looking for challenges

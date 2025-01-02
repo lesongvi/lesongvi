@@ -1,6 +1,6 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=lesongvi&color=orange&label=LESONGVI'S+PROFILE+VIEWS&style=for-the-badge" alt="lesongvi">
-
 [![Lê Song Vĩ's CV](https://user-images.githubusercontent.com/20860845/129331721-e638d143-18fe-4dca-8a99-94c24f90a892.png)](https://blog.lsv.vn)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lesongvi&color=orange&label=LESONGVI'S+PROFILE+VIEWS&style=for-the-badge" alt="lesongvi" /> </p>
 
 ## Kơkuh 👋🏼 Xin chào 👋 Hello 👋🏻
 ### I have just greeted you in 3 different languages 👀

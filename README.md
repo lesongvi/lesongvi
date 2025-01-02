@@ -8,6 +8,10 @@
 :two: [Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language) 🇻🇳 is the official language in my country.  
 :three: It's the language you are reading here, [English](https://en.wikipedia.org/wiki/English_language)!
 
+### 🎓 My certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ### 🛠️ My Superpowers
 
 | Category           | Tools                                                                 |

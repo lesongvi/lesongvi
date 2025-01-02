@@ -10,6 +10,7 @@
 
 ### 🎓 My certifications
 <!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/b9d03c03-c274-4224-8331-9002e9158f35 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
 ### 🛠️ My Superpowers

@@ -10,7 +10,8 @@
 
 ### 🎓 My certifications
 <!--START_SECTION:badges-->
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/b9d03c03-c274-4224-8331-9002e9158f35 "AWS Certified Cloud Practitioner")
+<a href="https://www.credly.com/badges/9e22f6be-0503-4b3d-a9da-4d828bf26766" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/5bdfa935-b6d2-4d0e-b463-c5815f35946d" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ### 🛠️ My Superpowers

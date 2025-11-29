@@ -9,7 +9,7 @@
 <!--END_SECTION:badges-->
 
 ### My 2025 goals
-- Earn the **AWS Certified Developer – Associate (DVA-C03)** to strengthen my hands-on cloud development skills.  
+- Earn the **AWS Certified Developer – Associate (DVA-C02)** to strengthen my hands-on cloud development skills.  
 - Obtain **Microsoft Azure Fundamentals (AZ-900)** to broaden my multi-cloud perspective.  
 - Take the **TOEIC** to measure and improve my English communication for global collaboration.
 

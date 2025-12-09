@@ -31,7 +31,3 @@
 
 ### Programming Time Since 2022
 [![wakatime](https://wakatime.com/badge/user/43ed987f-f668-4a15-8549-3945aa5c1fee.svg)](https://wakatime.com/@43ed987f-f668-4a15-8549-3945aa5c1fee)
-
-### Contact
-- [LinkedIn](https://www.linkedin.com/in/lesongvi)
-- [Personal Website](https://songvi.com)

@@ -35,4 +35,3 @@
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/lesongvi)
 - [Personal Website](https://songvi.com)
-- [Blog](https://blog.lsv.vn)

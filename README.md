@@ -9,9 +9,12 @@
 <a href="https://www.credly.com/badges/9ba04a2a-23f9-411a-9367-a11de50772b5" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
-### My 2025 goals
-- Obtain **Microsoft Azure Fundamentals (AZ-900)** to broaden my multi-cloud perspective.  
+### My 2026 Goals
+- Obtain **CKAD (Certified Kubernetes Application Developer)** to strengthen my Kubernetes and cloud-native application skills.
+- Earn **AWS Certified DevOps Engineer – Professional** to validate advanced DevOps practices on AWS.
+- Obtain **Microsoft Azure Fundamentals (AZ-900)** to broaden my multi-cloud perspective.
 - Take the **TOEIC** to measure and improve my English communication for global collaboration.
+
 
 <!--### 🛠️ My Superpowers
 

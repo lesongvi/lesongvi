@@ -12,8 +12,6 @@
 
 ### My 2026 Goals
 - Obtain **CKAD (Certified Kubernetes Application Developer)** to strengthen my Kubernetes and cloud-native application skills.
-- Earn **AWS Certified DevOps Engineer – Professional** to validate advanced DevOps practices on AWS.
-- Obtain **Microsoft Azure Fundamentals (AZ-900)** to broaden my multi-cloud perspective.
 - Take the **TOEIC** to measure and improve my English communication for global collaboration.
 
 

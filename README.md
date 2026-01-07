@@ -10,7 +10,7 @@
 <a href="https://www.credly.com/users/lesongvi/badges" title="Microsoft Certified: Azure Fundamentals"><img src="https://images.credly.com/size/80x80/images/4231ae71-4b35-47a9-a8fc-327aa027ec80/converted20260105-33-ccvnx.png" alt="Microsoft Certified: Azure Fundamentals" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
-### My 2026 Goals
+### My next Goal
 - Obtain **CKAD (Certified Kubernetes Application Developer)** to strengthen my Kubernetes and cloud-native application skills.
 
 

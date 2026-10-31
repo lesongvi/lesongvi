@@ -4,10 +4,12 @@
 
 ### My certifications
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/5ad6093e-ff54-4271-8712-08a46e3ce51b" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9e22f6be-0503-4b3d-a9da-4d828bf26766" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9ba04a2a-23f9-411a-9367-a11de50772b5" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
-<a href="https://www.credly.com/users/lesongvi/badges" title="Microsoft Certified: Azure Fundamentals"><img src="https://images.credly.com/size/80x80/images/4231ae71-4b35-47a9-a8fc-327aa027ec80/converted20260105-33-ccvnx.png" alt="Microsoft Certified: Azure Fundamentals" width="80" height="80"></a>
+[![Claude Certified Associate - Foundations](https://images.credly.com/size/80x80/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob)](https://www.credly.com/badges/f6e15f03-58b9-47e6-9749-7c665172ae34)
+[![Claude Certified Developer - Foundations](https://images.credly.com/size/80x80/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob)](https://www.credly.com/badges/af3d248e-0b46-46d8-89bf-1ad16acee377)
+[![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/5ad6093e-ff54-4271-8712-08a46e3ce51b)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/9e22f6be-0503-4b3d-a9da-4d828bf26766)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/9ba04a2a-23f9-411a-9367-a11de50772b5)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/4231ae71-4b35-47a9-a8fc-327aa027ec80/converted20260105-33-ccvnx.png)](https://www.credly.com/users/lesongvi/badges)
 <!--END_SECTION:badges-->
 
 ### My next Goal
